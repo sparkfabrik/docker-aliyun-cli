@@ -1,3 +1,3 @@
 # Aliyun Command Line Interface 
 
-TBD
+Docker image for the Universal Command Line Interface for Alibaba Cloud
